@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\bin\Debug\net8.0\İlkpraekt.exe
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\bin\Debug\net8.0\İlkpraekt.deps.json
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\bin\Debug\net8.0\İlkpraekt.runtimeconfig.json
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\bin\Debug\net8.0\İlkpraekt.dll
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\bin\Debug\net8.0\İlkpraekt.pdb
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.AssemblyInfo.cs
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.dll
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\refint\İlkpraekt.dll
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.pdb
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.genruntimeconfig.cache
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\ref\İlkpraekt.dll
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.sourcelink.json
